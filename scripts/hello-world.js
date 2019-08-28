@@ -1,8 +1,6 @@
 'use strict';
 
-function greet() {
-    let greeting = "Hello World!";
-    alert(greeting);
-    greeting = 2;
-    alert(greeting);
-}
+let greeting = 'Hello World!';
+console.log(greeting);
+greeting = 2;
+console.log(greeting);

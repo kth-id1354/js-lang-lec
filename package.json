@@ -4,7 +4,8 @@
   "description": "JS sample programs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "block-scope-func": "node ./scripts/block-scope-func"
+    "hw": "node ./scripts/hello-world",
+    "null-undef": "node ./scripts/null-undef"
   },
   "author": "leifl@kth.se",
   "license": "BSC 3-clause",
