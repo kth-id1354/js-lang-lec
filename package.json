@@ -1,0 +1,21 @@
+{
+  "name": "js-lang-lec",
+  "version": "0.1.0",
+  "description": "JS sample programs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "block-scope-func": "node ./scripts/block-scope-func"
+  },
+  "author": "leifl@kth.se",
+  "license": "BSC 3-clause",
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-google": "^0.13.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
