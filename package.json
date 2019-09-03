@@ -5,8 +5,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "hw": "node ./scripts/hello-world",
-    "null-undef": "node ./scripts/null-undef"
-  },
+    "null-undef": "node ./scripts/null-undef",
+    "flow-cont-bool": "node ./scripts/flow-cont-bool",
+    "exc": "node ./scripts/exception",
+    "closure": "node ./scripts/closure",
+    "rest-param": "node ./scripts/rest-param.js",
+    "def-param": "node ./scripts/def-param-val.js",
+    "for-of": "node ./scripts/array.js", 
+    "for-in": "node ./scripts/for-in.js", 
+    "arr-destr": "node ./scripts/spread.js", 
+    "spread": "node ./scripts/spread.js", 
+    "class": "node ./scripts/class.js",
+    "get-set": "node ./scripts/get-set.js" 
+    },
   "author": "leifl@kth.se",
   "license": "BSC 3-clause",
   "devDependencies": {
