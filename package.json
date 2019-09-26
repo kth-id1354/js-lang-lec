@@ -11,13 +11,14 @@
     "closure": "node ./scripts/closure",
     "rest-param": "node ./scripts/rest-param.js",
     "def-param": "node ./scripts/def-param-val.js",
-    "for-of": "node ./scripts/array.js", 
-    "for-in": "node ./scripts/for-in.js", 
-    "arr-destr": "node ./scripts/spread.js", 
-    "spread": "node ./scripts/spread.js", 
+    "for-of": "node ./scripts/array.js",
+    "for-in": "node ./scripts/for-in.js",
+    "arr-destr": "node ./scripts/spread.js",
+    "spread": "node ./scripts/spread.js",
     "class": "node ./scripts/class.js",
-    "get-set": "node ./scripts/get-set.js" 
-    },
+    "async": "node ./scripts/async.js",
+    "get-set": "node ./scripts/get-set.js"
+  },
   "author": "leifl@kth.se",
   "license": "BSC 3-clause",
   "devDependencies": {
